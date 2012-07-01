@@ -32,7 +32,7 @@ Objets de combat
 Utiliser
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-Ca ne fera rien de bon d'utiliser cela !
+Il est inutile d'utiliser ceci  !
 Ca a été enfermé dans un nuage de fumée blanche！\xfffe
 \xf000Ă\x0001\x0000 \xfffeis a été drainé !
 \xf000Ă\x0001\x0000's \xfffeAttaque augmente !
